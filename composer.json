@@ -1,0 +1,24 @@
+{
+    "name": "rubens21/gorpo",
+    "type": "library",
+    "description": "Simple services to help you with debug and comunication",
+    "keywords": ["debug","error capturing", "response handle"],
+    "homepage": "https://github.com/rubens21/gorpo",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Rubens Martins de Souza Silva",
+            "email": "rubens21@gmail.com",
+            "homepage": "https://github.com/rubens21/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Gorpo": "class/"
+        }
+    }
+}
