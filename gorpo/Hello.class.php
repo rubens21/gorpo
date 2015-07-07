@@ -1,6 +1,6 @@
 <?php
 
-namespace \Gorpo;
+namespace Gorpo;
 /**
  *
  * @author rubens21
